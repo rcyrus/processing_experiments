@@ -1,2 +1,1 @@
-# processing_experiments
-getting going with p5.js
+# learn me some p5.js
