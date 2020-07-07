@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/rcyrus/processing_experiments.git"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "p5": "^0.10.2",
     "braces": ">=2.3.1"
